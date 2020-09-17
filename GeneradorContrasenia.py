@@ -19,8 +19,8 @@ def generadorContrasenia():
 
 
 def main():
-    passwork = generadorContrasenia()
-    print('Su contraseña de 15 caracteres es: '+passwork)
+    password = generadorContrasenia()
+    print('Su contraseña de 15 caracteres es: '+password)
 
 
 if __name__ == '__main__':
