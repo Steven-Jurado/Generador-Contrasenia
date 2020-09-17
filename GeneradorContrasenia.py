@@ -4,7 +4,7 @@ def generadorContrasenia():
     numero = ['1','2','3','4','5','6','7','8','9']
     lestrasMayuscula = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P']
     letrasMinuscula = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p']
-    simbolo = ['*','@','#','.']
+    simbolo = ['*','@','#','.','$']
 
     caracteres = numero+lestrasMayuscula+letrasMinuscula+simbolo
 
